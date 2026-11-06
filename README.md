@@ -1,49 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Kaushal%20Tanna&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Kaushal%20Tanna&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Kaushal Tanna - Software Engineer | Full-Stack Developer | AI/ML Enthusiast"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Building+Full-Stack+Products+%F0%9F%9A%80;Crafting+AI%2FML+Solutions+%F0%9F%A4%96;Engineering+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+SDE+%2F+Full-Stack+%2F+AI+Internships+%F0%9F%8C%90" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Building+Full-Stack+Products+%F0%9F%9A%80;Crafting+AI%2FML+Solutions+%F0%9F%A4%96;Engineering+Scalable+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%40%20VIT%20Bhopal-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%40%20VIT%20Bhopal-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech Computer Science at VIT Bhopal"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.64%2F10.0-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CGPA-8.64%2F10.0-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="CGPA 8.64/10.0"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=calendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=calendar&logoColor=white" alt="Batch 2024-2028"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Bhopal%2C%20India-4C1D95?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍-Bhopal%2C%20India-4C1D95?style=for-the-badge&logoColor=white" alt="Bhopal, India"/>
 </p>
 
 <p align="center">
-  <a href="https://kaushaltanna.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://kaushaltanna.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/kaushal-tanna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kaushaltanna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:kaushaltanna2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kaushaltanna2007-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-kaushaltanna2007-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kaushaltanna-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Kaushal1905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kaushal1905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaushaltanna&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Kaushal1905&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/kaushaltanna?style=for-the-badge&color=6D28D9&label=FOLLOWERS&logo=github"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/kaushaltanna?style=for-the-badge&color=5B21B6&label=STARS&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Kaushal1905?style=for-the-badge&color=6D28D9&label=FOLLOWERS&logo=github" alt="Followers"/>
 </p>
 
 ---
@@ -62,11 +60,7 @@ I specialise in <strong>Full-Stack Development</strong> — engineering end-to-e
 Beyond code, I lead large-scale technical and cultural events as <strong>Event Manager at the Microsoft Technical Club, VIT Bhopal</strong>, driving cross-functional coordination and community engagement at scale.
 </p>
 
-**Open To:**
-- 🔹 Software Development Engineering (SDE) Internships
-- 🔹 Full-Stack Development Internships
-- 🔹 AI / ML Engineering Internships
-- 🔹 Open Source Collaboration
+**Open To:** 🔹 Open Source Collaboration
 
 ---
 
@@ -76,19 +70,19 @@ Beyond code, I lead large-scale technical and cultural events as <strong>Event M
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,php,html,css,sql&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,php,html,css,sql&theme=dark&perline=8" alt="Languages"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark&perline=8" alt="Frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql&theme=dark&perline=8" alt="Backend and databases"/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp&theme=dark&perline=8" alt="Cloud, DevOps and tooling"/>
 
 </p>
 
@@ -128,7 +122,7 @@ A full-stack healthcare management platform engineered to centralise patient reg
 | **Performance** | REST API responses optimised with efficient MongoDB indexing |
 | **Security** | Secure session handling, role-based access control, validated API endpoints |
 | **Impact** | Streamlined end-to-end healthcare workflows across registration to records |
-| **Repository** | [github.com/kaushaltanna/healthbridge](https://github.com/kaushaltanna) |
+| **Repository** | [github.com/Kaushal1905/HealthBridge](https://github.com/Kaushal1905/HealthBridge) |
 
 The platform integrates OpenCV for image processing within medical workflows, providing a foundation for future diagnostic tooling. The backend follows a strict separation of concerns — Flask services are decoupled from data access layers — ensuring testability and horizontal scalability.
 
@@ -150,7 +144,7 @@ A dynamic, full-stack travel booking platform featuring user authentication, ses
 | **Performance** | Optimised MySQL queries for travel package and booking retrieval |
 | **Security** | Session-based authentication, input sanitisation, SQL injection prevention |
 | **Impact** | End-to-end booking flow from package browsing to confirmed reservation |
-| **Repository** | [github.com/kaushaltanna/avipro-travels](https://github.com/kaushaltanna) |
+| **Repository** | [github.com/Kaushal1905/AviproTravels](https://github.com/Kaushal1905/AviproTravels) |
 
 The architecture follows a clean MVC pattern — separating routing, business logic, and database access — ensuring maintainability and enabling future microservice decomposition. The responsive Bootstrap UI delivers consistent experiences across mobile and desktop viewports.
 
@@ -171,11 +165,11 @@ Completed a structured, applied Data Science internship program with hands-on ex
 - Delivered structured outputs demonstrating analytical thinking and problem-solving rigour
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-6D28D9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Statistics-6D28D9?style=flat-square&logoColor=white" alt="Statistics"/>
 </p>
 
 ---
@@ -191,10 +185,10 @@ Core member of the Microsoft Technical Club responsible for the end-to-end plann
 - Established repeatable event frameworks to streamline future event execution cycles
 
 <p>
-<img src="https://img.shields.io/badge/Event%20Management-7C3AED?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Team%20Leadership-6D28D9?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Content%20Strategy-5B21B6?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cross%20Functional%20Coordination-4C1D95?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Event%20Management-7C3AED?style=flat-square&logoColor=white" alt="Event Management"/>
+<img src="https://img.shields.io/badge/Team%20Leadership-6D28D9?style=flat-square&logoColor=white" alt="Team Leadership"/>
+<img src="https://img.shields.io/badge/Content%20Strategy-5B21B6?style=flat-square&logoColor=white" alt="Content Strategy"/>
+<img src="https://img.shields.io/badge/Cross%20Functional%20Coordination-4C1D95?style=flat-square&logoColor=white" alt="Cross Functional Coordination"/>
 </p>
 
 ---
@@ -218,31 +212,31 @@ Core member of the Microsoft Technical Club responsible for the end-to-end plann
 
 <p align="center"><strong>Oracle</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Generative%20AI%20Professional%202025-C74634?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI%20Professional%202025-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Generative AI Professional 2025"/>
 </p>
 
 <p align="center"><strong>MongoDB</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB%20Certified%20Associate%20DBA-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Certified%20Associate%20DBA-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Certified Associate DBA"/>
 </p>
 
 <p align="center"><strong>NPTEL</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-0085CA?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-0085CA?style=for-the-badge&logo=coursera&logoColor=white" alt="NPTEL Cloud Computing"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Marketing%20Analytics-0085CA?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL-Marketing%20Analytics-0085CA?style=for-the-badge&logo=coursera&logoColor=white" alt="NPTEL Marketing Analytics"/>
 </p>
 
 <p align="center"><strong>Coursera</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Coursera-Bits%20%26%20Bytes%20of%20Computer%20Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-Bits%20%26%20Bytes%20of%20Computer%20Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera - Bits and Bytes of Computer Networking"/>
 </p>
 
 <p align="center"><strong>1Stop</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/1Stop-Data%20Science%20Program-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/1Stop-Data%20Science%20Program-7C3AED?style=for-the-badge&logoColor=white" alt="1Stop Data Science Program"/>
 </p>
 
 ---
@@ -250,20 +244,12 @@ Core member of the Microsoft Technical Club responsible for the end-to-end plann
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-kaushaltanna-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/kaushal1905/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-kaushal1905-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-kaushaltanna-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-kaushaltanna-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-kaushaltanna-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <a href="https://www.hackerrank.com/profile/kaushaltanna2007" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-kaushaltanna2007-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
 </p>
 
@@ -271,41 +257,36 @@ Core member of the Microsoft Technical Club responsible for the end-to-end plann
 
 ## ◈ GitHub Analytics
 
+<!--
+  These cards are generated by .github/workflows/profile-summary-cards.yml
+  and committed to the profile-summary-card-output/ folder of this repo.
+  To change the look, replace "dracula" in the four URLs below with another theme folder name.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushaltanna&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaushaltanna&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A855F7&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=A855F7&sideNums=C4B5FD&dates=6D28D9" height="180"/>
+  <img src="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/main/profile-summary-card-output/dracula/0-profile-details.svg" width="49%" alt="GitHub profile details"/>
+  <img src="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/main/profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushaltanna&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8" height="180"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaushaltanna&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=A855F7" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushaltanna&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="Top languages by repository"/>
+  <img src="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="Top languages by commits"/>
 </p>
 
 ---
 
 ## ◈ Contribution Snake
 
+<!--
+  The snake is generated by .github/workflows/snake.yml
+  and pushed to the "output" branch of this repo.
+-->
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaushaltanna/kaushaltanna/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaushaltanna/kaushaltanna/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kaushaltanna/kaushaltanna/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kaushal1905/Kaushal1905/output/github-snake.svg"/>
   </picture>
 </p>
 
@@ -329,12 +310,6 @@ current_focus:
     - LLM fine-tuning and prompt engineering patterns
     - Microservices architecture and containerisation
     - Open source contributions in AI/ML ecosystems
-
-  open_to:
-    - SDE Internships (Summer / Winter 2025–2026)
-    - Full-Stack Development roles
-    - AI / ML Engineering roles
-    - Research collaborations
 ```
 
 ---
@@ -343,19 +318,19 @@ current_focus:
 
 <p align="center">
   <a href="mailto:kaushaltanna2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kaushaltanna2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-kaushaltanna2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/kaushal-tanna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Tanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kaushaltanna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Tanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/kaushaltanna" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kaushaltanna-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Kaushal1905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kaushal1905-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://kaushaltanna.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kaushaltanna.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://kaushaltanna.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kaushaltanna.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -366,5 +341,5 @@ current_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" width="100%" alt=""/>
 </p>

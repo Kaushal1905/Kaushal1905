@@ -1,0 +1,32 @@
+# Save this file as: .github/workflows/profile-summary-cards.yml  (in the Kaushal1905/Kaushal1905 repo)
+#
+# Generates the GitHub stats cards and commits them to the folder
+# "profile-summary-card-output/" on the main branch. The README reads
+# the "dracula" theme cards from that folder.
+#
+# If the run fails with "Resource not accessible by integration", or some
+# cards are missing, create a personal access token, save it as a repo secret
+# named SUMMARY_GITHUB_TOKEN, and change GITHUB_TOKEN below to:
+#   ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
